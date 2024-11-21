@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MaiorMenor</string>
+    <string name="ins_1">Insira o primeiro valor: </string>
+    <string name="ins_2">Insira o segundo valor: </string>
+    <string name="resultado">Resultado da somatória: </string>
+    <string name="textoMenor">Menor</string>
+    <string name="textoMaior">Maior</string>
+    <string name="textoSoma">Somatória: </string>
+
+</resources>
